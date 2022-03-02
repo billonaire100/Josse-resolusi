@@ -2,6 +2,7 @@ JOSSE RESOLUSI
 - PROFIT KONSISTEN 
 - ES6
 - Framework
+- Struktur data dasar 
 - lancar JS, PHP, CSS
 - lancar bahasa inggris  
 - Wisudawan terbaik 
