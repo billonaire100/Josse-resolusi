@@ -2,9 +2,10 @@ JOSSE RESOLUSI
 - PROFIT KONSISTEN 
 - ES6
 - Framework
-- angular 
+- vue 
+- laravel 
+- Struktur data dasar 
 - lancar JS, PHP, CSS
 - lancar bahasa inggris  
 - Wisudawan terbaik 
 - Menjadi web-developer handal dan menghack bandar 
-- laravel 
