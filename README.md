@@ -1,2 +1,2 @@
 # Josse-resolusi
-Repository ntuk menyimpan josse kedepannya 
+Repository ntuk masa josse kedepannya 
