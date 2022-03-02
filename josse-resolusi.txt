@@ -10,3 +10,4 @@ JOSSE RESOLUSI
 - Wisudawan terbaik 
 - Menjadi web-developer handal dan menghack bandar 
 - python 
+-react 
