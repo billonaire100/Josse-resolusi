@@ -2,3 +2,4 @@ RENCANA
 - JS
 - PHP frameworks
 - profit
+- angular 
